@@ -1,11 +1,13 @@
-# api documentation for  [connect (v3.6.0)](https://github.com/senchalabs/connect#readme)  [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-connect.svg)](https://travis-ci.org/npmdoc/node-npmdoc-connect)
+# api documentation for  [connect (v3.6.0)](https://github.com/senchalabs/connect#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-connect.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-connect) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-connect.svg)](https://travis-ci.org/npmdoc/node-npmdoc-connect)
 #### High performance middleware framework
 
 [![NPM](https://nodei.co/npm/connect.png?downloads=true)](https://www.npmjs.com/package/connect)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-connect/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-connect_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-connect/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-connect/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-connect_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-connect/build..beta..travis-ci.org/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-connect/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-connect/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-connect/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
